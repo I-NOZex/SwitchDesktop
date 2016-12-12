@@ -1,2 +1,2 @@
-XButton2::Send ^#{Right}
-XButton1::Send ^#{Left}
+#WheelUp::Send ^#{Right}
+#WheelDown::Send ^#{Left}
